@@ -1,0 +1,16 @@
+h1{
+    color:aqua
+}
+*{
+    border:solid
+}
+.header{
+    background-color: brown;
+    display :flex;
+    justify-content: space-between
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-between
+}
